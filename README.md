@@ -14,7 +14,7 @@ It encrypts and decrypts text by shifting characters by a fixed key value.
 
 ## How to Run the Program
 1. Clone the repository:
-   git clone https://github.com/Arjunyadav7976/PRODIGY_CS_01.git
+   git clone https://github.com/Arjunyadav7976/CAESAR_CIPHER.git
 2. Go to the project folder:
    cd PRODIGY_CS_01
 3. Run the program:
