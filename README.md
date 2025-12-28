@@ -1,4 +1,4 @@
-# PRODIGY_CS_01 – Caesar Cipher
+#CAESAR_CIPHER– Caesar Cipher
 
 ## Project Description
 This project implements the Caesar Cipher, a basic encryption technique used in cryptography.
@@ -16,7 +16,7 @@ It encrypts and decrypts text by shifting characters by a fixed key value.
 1. Clone the repository:
    git clone https://github.com/Arjunyadav7976/CAESAR_CIPHER.git
 2. Go to the project folder:
-   cd PRODIGY_CS_01
+   cd CAESAR_CIPHER
 3. Run the program:
    python caesar_cipher.py
 
